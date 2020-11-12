@@ -1,0 +1,13 @@
+#main-header{
+    color: white;
+    background-color: grey;
+    min-height: 120px;
+}
+
+#sub-header{
+    background-color: red;
+}
+#main-footer{
+    background-color: grey;
+    min-height: 120px;
+}
